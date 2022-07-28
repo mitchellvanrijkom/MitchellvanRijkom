@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at [TheNextGen](https://www.thenextgen.nl/)
 
-- 💬 Ask me about **Databricks and Power BI**
+- 💬 Ask me about **Databricks, PySpark, and Data Engineering**
 
 - 📫 How to reach me **mitchell@mitchellvanrijkom.com**
 
