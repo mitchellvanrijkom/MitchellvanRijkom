@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mitchellvrijkom" target="blank"><img src="https://img.shields.io/twitter/follow/mitchellvrijkom?logo=twitter&style=for-the-badge" alt="mitchellvrijkom" /></a> </p>
 
-- 🔭 I’m currently working at [Turnn](turnn.nl)
+- 🔭 I’m currently working at [TheNextGen](TheNextGen.nl)
 
 - 💬 Ask me about **Databricks and Power BI**
 
