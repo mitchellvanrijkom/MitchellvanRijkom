@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/mitchellvrijkom/">
     <img src="https://img.shields.io/badge/LinkedIn-1000+-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
   </a>
-  <a href="h
 </p>
 
 - 🔭 I’m currently working at [TheNextGen](https://www.thenextgen.nl/)
