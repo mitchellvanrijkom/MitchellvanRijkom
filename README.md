@@ -6,7 +6,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitchellvanrijkom" alt="mitchellvanrijkom" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/mitchellvrijkom" target="blank"><img src="https://img.shields.io/twitter/follow/mitchellvrijkom?logo=twitter&style=for-the-badge" alt="mitchellvrijkom" /></a> </p>
+<p align="left"> 
+ <a href="https://twitter.com/mitchellvrijkom" target="blank"><img src="https://img.shields.io/twitter/follow/mitchellvrijkom?logo=twitter&style=for-the-badge" alt="mitchellvrijkom" /></a>
+<a href="https://www.linkedin.com/in/mitchellvrijkom/">
+    <img src="https://img.shields.io/badge/LinkedIn-1000+-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+  </a>
+  <a href="h
+</p>
 
 - 🔭 I’m currently working at [TheNextGen](https://www.thenextgen.nl/)
 
